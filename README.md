@@ -8,7 +8,7 @@ Welcome to my GitHub, a place that consist all of my work from immature till ...
 🔭 Currently a Software Engineering Student<br>
 
 ### Connect with Me 📫
-🆔 GitHub: @weiSan02<br>
+🆔 GitHub: [@weiSan02](https://github.com/weiSan02)
 🌐 LinkedIn: www.linkedin.com/in/lee-wei-san<br>
 💌 Email: weisanlee@gmail.com<br>
 
