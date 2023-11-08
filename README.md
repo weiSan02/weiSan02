@@ -1,5 +1,5 @@
 ### 👋 Hi There, I'm Wei San 👋
-Welcome to my GitHub, a place that consist all of my work from naive till ... still naive 😝
+Welcome to my GitHub, a place that consist all of my work from immature till ... still immature 😝
 
 ### About Me 🐾
 🌼 Name: Lee Wei San <br>
