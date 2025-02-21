@@ -5,7 +5,7 @@ Welcome to my GitHub, a place that consist all of my work from immature till ...
 🌼 Name: Lee Wei San <br>
 ☀️ Interests: Coding & Bring new ideas to life <br>
 🍞 Fun fact: I'm a Dancer which loves baking ~<br>
-🔭 Currently a Software Engineering Student<br>
+🔭 Currently a Software Engineering Graduate<br>
 
 ### Connect with Me 📫
 🆔 GitHub: [@weiSan02](https://github.com/weiSan02)<br>
